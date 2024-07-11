@@ -1,0 +1,6 @@
+python==3.10.*
+pycaret
+autogen
+python-dotenv
+langchain-openai
+pandas
